@@ -104,8 +104,3 @@ python manage.py test tweenterapp
 ## Contributing
 
 Contributions are welcome. Please fork the repository, make your changes, and submit a pull request. For issues or feature requests, please use the repository's issue tracker.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for further details.
-```
